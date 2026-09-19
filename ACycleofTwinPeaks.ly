@@ -4,16 +4,9 @@ global = {
   \key c \major
 }
 
-\paper {
-  oddHeaderMarkup = \markup {
-    \fill-line {
-      ""
-      \right-column {
-        \bold "A Cycle of Twin Peaks"
-        "Jesse Menzer"
-      }
-    }
-  }
+\header {
+   title = "A Cycle of Twin Peaks"
+  composer = "Jesse Menzer"
 }
 
 melody = {
