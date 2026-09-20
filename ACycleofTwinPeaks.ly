@@ -5,7 +5,6 @@ global = {
 }
 
 \header {
-   title = "A Cycle of Twin Peaks"
   composer = "Jesse Menzer"
 }
 
